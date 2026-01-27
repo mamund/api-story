@@ -1,4 +1,4 @@
-# Api story specification v1.1
+# API Story Specification
 
 Version: 1.1  
 Status: normative  

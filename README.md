@@ -1,4 +1,4 @@
-# Api Stories
+# API Stories
 
 ![logo](logo.png)
 
@@ -19,6 +19,7 @@ Reading order:
 5. [Anti-Patterns](docs/api-story-anti-patterns.md)
 6. [Examples](examples/README.md)
 7. [LLM Review Guidance](docs/api-story-llm-review-guidance.md)
+8. [Glossary](docs/api-story-glossary.md)
 
 If you want to write your first story right away, jump to templates/api-story-template.md.
 

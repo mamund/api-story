@@ -1,6 +1,6 @@
-# Api story author checklist v2
+# API Story Author Checklist
 
-This checklist reflects the current API Story specification, template v2, and review guidance.
+This checklist (v2) reflects the current API Story specification, template v2, and review guidance.
 Use it while authoring and again before submitting a story for review.
 
 ---

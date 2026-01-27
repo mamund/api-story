@@ -1,4 +1,4 @@
-# Api story designer’s guide v2.1
+# API Story Designer’s Guide
 
 Version: 2.1  
 Status: aligned with templates v2, review template v2, and author checklist v2

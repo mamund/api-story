@@ -1,4 +1,4 @@
-# API story LLM review prompts
+# API Story LLM Review Prompts
 
 This folder contains **conservative, review-oriented prompts** for using large language models (LLMs) as assistants when working with API Stories.
 

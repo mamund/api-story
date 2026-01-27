@@ -1,4 +1,4 @@
-# Api story glossary v1.1
+# API Story Glossary
 
 Version: 1.1  
 Status: aligned with API Story specification v1.1, designer’s guide v2.1, and templates v2
@@ -8,7 +8,7 @@ Terms are written to reduce ambiguity and prevent drift between specification, g
 
 ---
 
-## Api story
+## API story
 
 A structured design narrative that captures purpose, data, states, actions, and rules before interface or protocol details are chosen.
 

@@ -1,4 +1,4 @@
-# Why api stories
+# Why API Stories
 
 Most API failures do not start in code. They start earlier, when intent is implied instead of stated, when assumptions are left unspoken, and when technical artifacts are asked to carry meaning they were never designed to hold.
 

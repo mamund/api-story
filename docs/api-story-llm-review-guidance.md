@@ -1,4 +1,4 @@
-# Using LLMs as an API story review assistant
+# Using LLMs as an API Story Review Assistant
 
 Status: guidance  
 Applies to: API Story specification v1.1 and related documents

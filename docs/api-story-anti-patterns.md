@@ -1,4 +1,4 @@
-# Api story anti-patterns v1.1
+# API Story Anti-Patterns
 
 Version: 1.1  
 Status: aligned with API Story specification v1.1, designer’s guide v2.1, and templates v2
