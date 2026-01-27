@@ -1,5 +1,7 @@
 # Api stories
 
+![logo](logo.png)
+
 This repository contains a small, practical standard for writing and reviewing API Stories.
 
 An API Story is a structured narrative that captures purpose, data, states, actions, and rules before you commit to interface details. It is designed to be readable by humans and stable enough to support downstream generation of ALPS, OpenAPI, documentation, tests, etc.
