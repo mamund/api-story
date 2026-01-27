@@ -70,86 +70,9 @@ If a model proposes new resources, actions, roles, or rules, treat that as a que
 
 The following prompts bias toward questions, minimal edits, and intent preservation.
 
-### Prompt 1: structural and consistency review
-
-```
-You are acting as a review assistant for an API Story.
-
-Inputs:
-- Draft API Story
-- API Story specification
-- Designer’s guide
-- Author checklist
-
-Task:
-1. Check structural integrity:
-   - unreachable resources
-   - unreachable actions
-   - actions that do not return a resource
-   - referenced but undeclared roles, resources, actions, or data properties
-
-2. Check consistency:
-   - naming consistency across sections
-   - consistent use of roles
-   - consistent terminology for resources and actions
-
-3. Check role usage:
-   - roles on resources used only for visibility
-   - roles on actions used only for authority
-   - action-level role restrictions not weaker than resource visibility
-
-Constraints:
-- Do not invent new resources, actions, rules, or roles.
-- If something is missing, list questions first.
-- Propose only minimal corrections that preserve the author’s intent.
-
-Output:
-- A list of issues, grouped by category.
-- For each issue, cite the section where it appears.
-```
-
----
-
-### Prompt 2: clarity and design hygiene review
-
-```
-You are acting as a design reviewer for an API Story.
-
-Task:
-- Identify places where:
-  - resources are described as storage rather than states
-  - actions drift into protocol or workflow language
-  - constraints are buried in prose instead of rules
-  - optional sections add noise rather than clarity
-
-Constraints:
-- Do not rewrite the story.
-- Do not add new behavior.
-- Suggest wording changes only where clarity improves without changing meaning.
-
-Output:
-- A list of observations with suggested edits.
-```
-
----
-
-### Prompt 3: checklist-driven self-review
-
-```
-Use the API Story author checklist as a review rubric.
-
-Task:
-- Walk through the checklist item by item.
-- For each unchecked or partially satisfied item, explain why.
-- Point to the exact section that needs attention.
-
-Constraints:
-- Do not assume intent beyond what is written.
-- If intent is unclear, ask a question instead of proposing a fix.
-
-Output:
-- Checklist results with notes.
-```
+- (api-story-llm-prompt-structural-review.md)
+- (api-story-llm-prompt-clarity-review.md)
+- (api-story-llm-prompt-checklist-review.md)
 
 ---
 
