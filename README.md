@@ -1,4 +1,4 @@
-# Api stories
+# Api Stories
 
 ![logo](logo.png)
 
@@ -10,12 +10,12 @@ An API Story is a structured narrative that captures purpose, data, states, acti
 
 Reading order:
 
-1. docs/why-api-stories.md
-2. docs/api-story-specification.md
-3. docs/api-story-designers-guide.md
-4. docs/api-story-author-checklist.md
-5. docs/api-story-anti-patterns.md
-6. examples/README.md
+1. [Why API Stories](docs/why-api-stories.md)
+2. [API Story Specification](docs/api-story-specification.md)
+3. [API Story Designer's Guide](docs/api-story-designers-guide.md)
+4. [API Story Author's Checklist](docs/api-story-author-checklist.md)
+5. [API Story Anti-Patterns](docs/api-story-anti-patterns.md)
+6. [EXamples](examples/README.md)
 
 If you want to write your first story right away, jump to templates/api-story-template.md.
 
