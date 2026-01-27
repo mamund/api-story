@@ -18,7 +18,7 @@ Reading order:
 4. [Author's Checklist](docs/api-story-author-checklist.md)
 5. [Anti-Patterns](docs/api-story-anti-patterns.md)
 6. [Examples](examples/README.md)
-7. [LLM Review Guidance](doc/api-story-llm-review-guidance.md)
+7. [LLM Review Guidance](docs/api-story-llm-review-guidance.md)
 
 If you want to write your first story right away, jump to templates/api-story-template.md.
 
@@ -51,7 +51,7 @@ Good prompts ask the model to:
  3. check role usage (visibility on resources, authority on actions)
  4. flag protocol leakage or workflow language. 
  
-Treat the output as advisory. The model may miss issues or invent details. Use the checklist and human judgment as the final authority. For details and examples of LLM interactions, see [LLM Review Guidance](doc/api-story-llm-review-guidance.md)
+Treat the output as advisory. The model may miss issues or invent details. Use the checklist and human judgment as the final authority. For details and examples of LLM interactions, see [LLM Review Guidance](docs/api-story-llm-review-guidance.md)
 
 
 ## Contributing
