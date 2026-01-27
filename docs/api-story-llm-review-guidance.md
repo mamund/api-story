@@ -70,9 +70,9 @@ If a model proposes new resources, actions, roles, or rules, treat that as a que
 
 The following prompts bias toward questions, minimal edits, and intent preservation.
 
-- [api-story-llm-prompt-structural-review.md](api-story-llm-prompt-structural-review.md)
-- [ai-story-llm-prompt-clarity-review.md]
-- [a-story-llm-prompt-checklist-review.md]
+- [api-story-llm-prompt-structural-review.md](prompts/api-story-llm-prompt-structural-review.md)
+- [api-story-llm-prompt-clarity-review.md](prompts/api-story-llm-prompt-clarity-review.md)
+- [api-story-llm-prompt-checklist-review.md](prompts/api-story-llm-prompt-checklist-review.md)
 
 ---
 
