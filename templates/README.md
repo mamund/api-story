@@ -21,7 +21,7 @@ The review focuses on questions like whether roles are stable and well-scoped, w
 
 This template is designed to support peer review, self-review, or design validation before moving downstream into specifications or code.
 
-See the [author checklist](../docs/spi-story-author-checklist.md) for additionl details.
+See the [author checklist](../docs/api-story-author-checklist.md) for additionl details.
 
 ### How to use these templates
 
